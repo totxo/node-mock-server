@@ -1,0 +1,15 @@
+{
+  "name": "mock-server",
+  "version": "1.0.0",
+  "description": "Mocks vascos",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server scripts/script.js"
+  },
+  "author": "Vasco",
+  "license": "ISC",
+  "dependencies": {
+    "casual": "^1.6.2",
+    "json-server": "^0.15.1"
+  }
+}
